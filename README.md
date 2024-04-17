@@ -10,7 +10,7 @@
 ![Alt text](//cdn2.scratch.mit.edu/get_image/project/994890793_144x108.png)
 
 [Lazy Roads](https://scratch.mit.edu/projects/995973778/)
-![Alt text](//cdn2.scratch.mit.edu/get_image/project/995973778_144x108.png)
+![salut](//cdn2.scratch.mit.edu/get_image/project/995973778_144x108.png)
 
 [Oculus OS](https://scratch.mit.edu/projects/994354220/)
 ![Alt text](//cdn2.scratch.mit.edu/get_image/project/994354220_144x108.png)
@@ -32,6 +32,7 @@
 
 [Mouse in the trap](https://scratch.mit.edu/projects/991538492/)
 ![Alt text](//cdn2.scratch.mit.edu/get_image/project/991538492_144x108.png)
+![gaellogo](https://github.com/VaxyNetwork/Paint/assets/116829595/9e48b06e-7799-44d1-9c6b-2a26aa676c11)
 
 [BackDrop](https://scratch.mit.edu/projects/965660030/)
 ![Alt text](//cdn2.scratch.mit.edu/get_image/project/965660030_144x108.png)
